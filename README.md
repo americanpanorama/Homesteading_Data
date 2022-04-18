@@ -11,6 +11,8 @@ There are four key pieces to data provided in this repository:
 
 + Rectified_Maps: This folder contains all of the georectified maps from the US General Land Office. 
 
++ Original_Maps: Original scanned maps from the archive. (Credit: Julius Wilm)
+
 + Statistical Information: This dataset contains the statistical information regarding the number of claims and patents given in a particular year and state office. 
 
 [More on sources can be found here](https://dsl.richmond.edu/panorama/homesteading/map/text/sources)
