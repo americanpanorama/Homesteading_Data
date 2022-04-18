@@ -1,6 +1,5 @@
 # Homesteading Data
-## Land Acquisition and Dispossession
-Mapping the Homestead Act, 1863-1912
+Land Acquisition and Dispossession: Mapping the Homestead Act, 1863-1912
 
 The Homestead Act of 1862 offered Americans the opportunity to claim parcels of "public land," occupy and improve it for five years, and then receive title to it. This map visualizes over time and space the more than 2.3 million claims and 900,000 "patents" granting ownership made and issued in the half-century after passage of the act. By 1912, homesteaders had transformed more than 125 million acres—more than 5% of the total acreage of the entire United States—from public lands to private property.
 
