@@ -17,3 +17,5 @@ There are four key pieces to data provided in this repository:
 
 [More on sources can be found here](https://dsl.richmond.edu/panorama/homesteading/map/text/sources)
 
+[Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0)](https://creativecommons.org/licenses/by-nc/2.0/)
+
